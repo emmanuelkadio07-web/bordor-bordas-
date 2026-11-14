@@ -1,11 +1,15 @@
 {
+  "id": "/bordor-bordas-/",
   "name": "BØRDŌR-BORDAS",
   "short_name": "BØRDŌR",
   "description": "Cours, exercices et examens blancs BEPC et Bac.",
   "lang": "fr",
+  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education"],
   "background_color": "#101b36",
   "theme_color": "#101b36",
   "icons": [
